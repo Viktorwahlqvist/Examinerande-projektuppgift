@@ -28,5 +28,3 @@ This project was developed collaboratively by:
 - @Tobias-Thor
 - @25ismail
 - @VitalijsEnglund
-
-
