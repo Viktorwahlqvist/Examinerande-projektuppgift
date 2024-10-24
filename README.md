@@ -20,3 +20,13 @@ The goal of this project was to build a **semantic**, **validated**, and **respo
 - **CSS3**: For styling, enhanced by Sass and Tailwind CSS.
 - **Sass (SCSS)**: For organized and efficient styling.
 
+- ## Contributors
+
+This project was developed collaboratively by:
+
+- @snickerio
+- @Tobias-Thor
+- @25ismail
+- @VitalijsEnglund
+
+
