@@ -1,3 +1,5 @@
+![image](https://github.com/Viktorwahlqvist/Examinerande-projektuppgift/blob/main/images/Sk%C3%A4rmbild%202025-02-03%20155359.png?raw=true)
+
 # Examination Project
 
 This project is an examination assignment in HTML and CSS, created to demonstrate the application of fundamental web development principles.
@@ -19,12 +21,3 @@ The goal of this project was to build a **semantic**, **validated**, and **respo
 - **HTML5**: For structuring the web pages.
 - **CSS3**: For styling, enhanced by Sass and Tailwind CSS.
 - **Sass (SCSS)**: For organized and efficient styling.
-
-## Contributors
-
-This project was developed collaboratively by:
-
-- [snickerio](https://github.com/snickerio)
-- [Tobias-Thor](https://github.com/Tobias-Thor)
-- [25ismail](https://github.com/25ismail)
-- [VitalijsEnglund](https://github.com/VitalijsEnglund)
